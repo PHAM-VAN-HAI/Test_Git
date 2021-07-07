@@ -12,5 +12,6 @@ package com.mycompany.testgithub;
 public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Chao!");
+        System.out.println("Minh dep zai");
     }
 }
